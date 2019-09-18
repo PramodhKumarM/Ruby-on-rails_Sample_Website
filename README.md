@@ -4,7 +4,7 @@ Original version is at 	https://bitbucket.org/railstutorial/sample_app_4th_ed.gi
 
 It contains
 
- * A Dockerfile
+ * A Dockerfile #Docker!!
  * A Codefresh build file
 
 
